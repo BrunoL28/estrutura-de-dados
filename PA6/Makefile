@@ -5,7 +5,7 @@ SRCDIR = src
 INCDIR = include
 OBJDIR = obj
 BINDIR = bin
-TARGET = $(BINDIR)/tp2.out
+TARGET = $(BINDIR)/pa6.out
 
 # Arquivos-fonte
 SRCS = $(wildcard $(SRCDIR)/*.cpp)
